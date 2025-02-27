@@ -1,0 +1,82 @@
+Extracted Job Key Points:
+ **Key Skills Required:**
+- Generative AI model design and development
+- Collaboration with cross-functional teams
+- Optimization and fine-tuning of AI models
+- Technical guidance and mentorship
+- Strong communication and presentation skills
+
+**Key Technologies Mentioned:**
+- Generative AI
+- Machine Learning
+- Natural Language Processing (NLP)
+- AI products and services
+- Data analysis and insights generation
+
+**Most Important Programming Languages:**
+- Python
+- R
+Extracted CV Text:
+ Contributed to international AI projects across 3+ countries in Europe and the Middle East, working as
+part of the European Artificial Intelligence Delivery Hub at Avanade.
+Graduated MSc in Artificial Intelligence (with honors) from City, University of London. 
+Awarded the Department of Computer Science Outstanding Project Prize for developing a Spanish
+Poetry Generator from scratch.
+Strong track record of cross-functional collaboration and delivering measurable results.
+Endesa
+Gas Logistic Anal ...
+CV Improvement Suggestions:
+ To optimize the CV for the job application based on the provided job description, here are structured recommendations:
+
+### 1. **Prioritization Order:**
+   - **Contact Information:** Ensure this is clear and professional.
+   - **Professional Summary:** A brief summary that highlights key skills and experiences relevant to the job.
+   - **Key Skills:** A dedicated section that lists must-have skills and technologies.
+   - **Professional Experience:** Detailed descriptions of relevant roles, emphasizing achievements and responsibilities that align with the job description.
+   - **Education & Certifications:** Highlight relevant degrees and certifications, especially those related to AI and machine learning.
+   - **Projects:** A section dedicated to key projects that showcase relevant experience in generative AI and collaboration.
+   - **Interests:** Keep this section brief, but consider removing less relevant details to maintain professionalism.
+
+### 2. **Must-Have Elements:**
+   - **Key Skills:**
+     - Generative AI model design and development
+     - Optimization and fine-tuning of AI models
+     - Collaboration with cross-functional teams
+     - Technical guidance and mentorship
+     - Strong communication and presentation skills
+   - **Technologies:**
+     - Generative AI
+     - Machine Learning
+     - Natural Language Processing (NLP)
+     - Data analysis and insights generation
+   - **Programming Languages:**
+     - Python (must be emphasized)
+     - R (consider adding if applicable)
+
+### 3. **Suggested Improvements:**
+   - **Professional Summary:** 
+     - Add a summary at the top that encapsulates your experience in generative AI, collaboration, and technical guidance. For example: 
+       "AI Engineer with extensive experience in generative AI model design and development, adept at collaborating with cross-functional teams to deliver innovative AI solutions. Proven track record in optimizing AI models and providing technical mentorship."
+   
+   - **Key Skills Section:**
+     - Create a dedicated "Key Skills" section that includes the must-have skills and technologies listed above. This should be prominently placed after the professional summary.
+   
+   - **Professional Experience:**
+     - In the "European AI Delivery HUB at Avanade" section, explicitly mention any experience with generative AI model design and optimization. 
+     - Highlight any instances where you provided technical guidance or mentorship to others.
+     - Use bullet points to clearly outline achievements and responsibilities, focusing on quantifiable results.
+   
+   - **Projects Section:**
+     - Create a separate section for key projects, emphasizing those that involved generative AI and collaboration. For example:
+       - **Sales Coach Assistant for BBVA Gen AI:** Focus on your role in model design and optimization.
+       - **HR Chatbot for JDE:** Highlight collaboration with HR teams and the impact of the chatbot on employee engagement.
+       - **Sentiment and Classification Analyzer for ENBD:** Emphasize the accuracy achieved and any optimization techniques used.
+   
+   - **Education & Certifications:**
+     - Ensure that the Microsoft Certified Azure AI-102 certification is prominently displayed, as it aligns with the job's requirements.
+     - If you have any coursework or projects related to R, consider adding that to your education section or skills.
+
+   - **Interests:**
+     - Consider removing or condensing the interests section to maintain a professional tone. Focus on interests that may relate to technology or AI, if applicable.
+
+By implementing these recommendations, the CV will be better aligned with the job requirements, showcasing relevant skills and experiences that are likely to attract the attention of hiring managers.
